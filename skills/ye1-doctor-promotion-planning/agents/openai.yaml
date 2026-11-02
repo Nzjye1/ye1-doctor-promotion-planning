@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ye1 医生晋升与科研规划"
+  short_description: "结合岗位条件和已有基础，统筹医生晋升、课题、文章与研究工作。"
+  default_prompt: "使用 $ye1-doctor-promotion-planning，我准备晋升副主任医师，请结合我的岗位和现有课题文章，帮我规划下一步。"
